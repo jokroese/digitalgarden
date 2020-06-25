@@ -1,0 +1,13 @@
+title: $:/plugins/jobi/digitalgarden
+tags: $:/tags/Stylesheet
+
+\rules only filteredtranscludeinline transcludeinline macrodef macrocallinline html
+
+.tc-popup.tc-preview-tiddler {
+	font-size: 0.75em;
+}
+
+button svg.tc-image-button, button .tc-image-button img {
+	height: 0.75em;
+	width: 0.75em;
+}

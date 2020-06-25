@@ -1,0 +1,12 @@
+{
+  "title": "$:/plugins/joekroese",
+  "description": "Digital Garden: Some glue to hold the leaves together",
+  "author": "Jobi",
+  "version": "0.0.1",
+  "released": "Sun, 31 May 2020 07:04:54 GMT",
+  "core-version": ">=5.1.5",
+  "source": "https://github.com/joekroese/digitalgarden",
+  "type": "application/json",
+  "plugin-type": "plugin",
+  "list": "readme license"
+}

@@ -1,0 +1,11 @@
+created: 20200624214003602
+key: ctrl+p
+modified: 20200624214206168
+tags: $:/tags/KeyboardShortcut
+title: edit-tiddler
+tmap.id: b1c1c993-bba6-406c-9497-5e0103c03054
+type: text/plain
+
+<$keyboard key="ctrl+enter" message="tm-edit-tiddler"><div tabindex="1" class=<<frame-classes>>><$list filter="[all[shadows+tiddlers]tag[$:/tags/ViewTemplate]!has[draft.of]]" variable="listItem"><$transclude tiddler=<<listItem>>/></$list>
+</div>
+</$keyboard>
